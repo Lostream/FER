@@ -1,0 +1,39 @@
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csprojResolveAssemblyReference.cache
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Form1.resources
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Properties.Resources.resources
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csproj.GenerateResource.Cache
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.pdb
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\bin\Debug\FaceSDK.NET.dll
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+C:\Users\Ardhi Rizki Harahap\VsProjects\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.pdb
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Form1.resources
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Properties.Resources.resources
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csproj.GenerateResource.Cache
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+E:\kuliah\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb
+K:\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb
+K:\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe
+K:\PCD\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.pdb
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Form1.resources
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Properties.Resources.resources
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csproj.GenerateResource.Cache
+K:\PCD\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csprojResolveAssemblyReference.cache
+K:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+K:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+K:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.pdb
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csprojResolveAssemblyReference.cache
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Form1.resources
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Properties.Resources.resources
+V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csproj.GenerateResource.Cache
