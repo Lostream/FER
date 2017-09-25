@@ -37,3 +37,6 @@ V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csprojResolv
 V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Form1.resources
 V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD_Luxan001.Properties.Resources.resources
 V:\PCD\Action Unit\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.csproj.GenerateResource.Cache
+V:\Skripsi\Skripsi\Program\Original\PCD-Luxan001\PCD-Luxan001\bin\Debug\PCD-Luxan001.exe.config
+V:\Skripsi\Skripsi\Program\Original\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.exe
+V:\Skripsi\Skripsi\Program\Original\PCD-Luxan001\PCD-Luxan001\obj\Debug\PCD-Luxan001.pdb

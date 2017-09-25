@@ -31,14 +31,10 @@
             this.pictureBox = new System.Windows.Forms.PictureBox();
             this.button_openImage = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.eucLEyeB = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.eucLEye = new System.Windows.Forms.TextBox();
             this.eucnose = new System.Windows.Forms.TextBox();
             this.eucpipi = new System.Windows.Forms.TextBox();
             this.eucUmouth = new System.Windows.Forms.TextBox();
@@ -49,16 +45,11 @@
             this.ketpipi = new System.Windows.Forms.TextBox();
             this.ketUmouth = new System.Windows.Forms.TextBox();
             this.ketdagu = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.eucREye = new System.Windows.Forms.TextBox();
             this.ketREye = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.eucREyeB = new System.Windows.Forms.TextBox();
             this.ketREyeB = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.eucLmouth = new System.Windows.Forms.TextBox();
             this.ketLmouth = new System.Windows.Forms.TextBox();
-            this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.Rcheck = new System.Windows.Forms.TextBox();
@@ -99,37 +90,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
-            // 
-            // eucLEyeB
-            // 
-            this.eucLEyeB.Location = new System.Drawing.Point(1192, 130);
-            this.eucLEyeB.Margin = new System.Windows.Forms.Padding(4);
-            this.eucLEyeB.Name = "eucLEyeB";
-            this.eucLEyeB.Size = new System.Drawing.Size(99, 22);
-            this.eucLEyeB.TabIndex = 4;
-            this.eucLEyeB.Text = "0";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(1056, 128);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 25);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "Left EyeB";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(1056, 207);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 25);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "Left  Eye";
             // 
             // label9
             // 
@@ -174,15 +134,6 @@
             this.label6.Size = new System.Drawing.Size(53, 25);
             this.label6.TabIndex = 10;
             this.label6.Text = "Chin";
-            // 
-            // eucLEye
-            // 
-            this.eucLEye.Location = new System.Drawing.Point(1192, 209);
-            this.eucLEye.Margin = new System.Windows.Forms.Padding(4);
-            this.eucLEye.Name = "eucLEye";
-            this.eucLEye.Size = new System.Drawing.Size(99, 22);
-            this.eucLEye.TabIndex = 11;
-            this.eucLEye.Text = "0";
             // 
             // eucnose
             // 
@@ -268,26 +219,6 @@
             this.ketdagu.Size = new System.Drawing.Size(95, 22);
             this.ketdagu.TabIndex = 21;
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(1056, 247);
-            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(95, 25);
-            this.label7.TabIndex = 22;
-            this.label7.Text = "Right Eye";
-            // 
-            // eucREye
-            // 
-            this.eucREye.Location = new System.Drawing.Point(1192, 250);
-            this.eucREye.Margin = new System.Windows.Forms.Padding(4);
-            this.eucREye.Name = "eucREye";
-            this.eucREye.Size = new System.Drawing.Size(99, 22);
-            this.eucREye.TabIndex = 23;
-            this.eucREye.Text = "0";
-            // 
             // ketREye
             // 
             this.ketREye.Location = new System.Drawing.Point(1316, 250);
@@ -295,26 +226,6 @@
             this.ketREye.Name = "ketREye";
             this.ketREye.Size = new System.Drawing.Size(95, 22);
             this.ketREye.TabIndex = 24;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(1056, 165);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(108, 25);
-            this.label8.TabIndex = 25;
-            this.label8.Text = "Right EyeB";
-            // 
-            // eucREyeB
-            // 
-            this.eucREyeB.Location = new System.Drawing.Point(1192, 167);
-            this.eucREyeB.Margin = new System.Windows.Forms.Padding(4);
-            this.eucREyeB.Name = "eucREyeB";
-            this.eucREyeB.Size = new System.Drawing.Size(99, 22);
-            this.eucREyeB.TabIndex = 26;
-            this.eucREyeB.Text = "0";
             // 
             // ketREyeB
             // 
@@ -351,17 +262,6 @@
             this.ketLmouth.Name = "ketLmouth";
             this.ketLmouth.Size = new System.Drawing.Size(95, 22);
             this.ketLmouth.TabIndex = 30;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(1187, 90);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(98, 25);
-            this.label10.TabIndex = 31;
-            this.label10.Text = "Euclidean";
             // 
             // label11
             // 
@@ -433,16 +333,11 @@
             this.Controls.Add(this.Rcheck);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
-            this.Controls.Add(this.label10);
             this.Controls.Add(this.ketLmouth);
             this.Controls.Add(this.eucLmouth);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.ketREyeB);
-            this.Controls.Add(this.eucREyeB);
-            this.Controls.Add(this.label8);
             this.Controls.Add(this.ketREye);
-            this.Controls.Add(this.eucREye);
-            this.Controls.Add(this.label7);
             this.Controls.Add(this.ketdagu);
             this.Controls.Add(this.ketUmouth);
             this.Controls.Add(this.ketpipi);
@@ -453,14 +348,10 @@
             this.Controls.Add(this.eucUmouth);
             this.Controls.Add(this.eucpipi);
             this.Controls.Add(this.eucnose);
-            this.Controls.Add(this.eucLEye);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.eucLEyeB);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button_openImage);
             this.Controls.Add(this.pictureBox);
@@ -480,14 +371,10 @@
         private System.Windows.Forms.PictureBox pictureBox;
         private System.Windows.Forms.Button button_openImage;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.TextBox eucLEyeB;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox eucLEye;
         private System.Windows.Forms.TextBox eucnose;
         private System.Windows.Forms.TextBox eucpipi;
         private System.Windows.Forms.TextBox eucUmouth;
@@ -498,16 +385,11 @@
         private System.Windows.Forms.TextBox ketpipi;
         private System.Windows.Forms.TextBox ketUmouth;
         private System.Windows.Forms.TextBox ketdagu;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox eucREye;
         private System.Windows.Forms.TextBox ketREye;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox eucREyeB;
         private System.Windows.Forms.TextBox ketREyeB;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox eucLmouth;
         private System.Windows.Forms.TextBox ketLmouth;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox Rcheck;
